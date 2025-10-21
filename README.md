@@ -51,7 +51,7 @@ AMAZON_DASHBOARD/
 |------------|-------------|
 | UI & Framework | Streamlit |
 | Data Handling | Pandas, NumPy |
-| Visualization | Plotly Express, Matplotlib |
+| Visualization | Seaborn, Matplotlib |
 | Database | SQLite |
 | Language | Python 3.12+ |
 
